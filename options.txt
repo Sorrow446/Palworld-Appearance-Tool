@@ -1,0 +1,11 @@
+Body:
+TypeA, TypeB
+
+Head:
+type1-type21
+
+Eyes:
+Type001-Type011
+
+Voice:
+1-6
