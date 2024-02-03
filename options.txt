@@ -2,7 +2,7 @@ Body:
 TypeA, TypeB
 
 Head:
-type1-type21
+Type1-Type21
 
 Eyes:
 Type001-Type011
