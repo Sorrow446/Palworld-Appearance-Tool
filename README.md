@@ -8,12 +8,12 @@ Tool for appearance manipulation for Palworld written in Go.
 Saves are stored here: `%LOCALAPPDATA%\Pal\Saved\SaveGames\<ID>\Players`
 
 Export JSON appearance data:   
-`pat.exe export -i 1.sav -o out.json`
+`pat.exe export -i 00000000000000000000000000000001.sav -o out.json`
 
 Open the JSON in your favourite text editor and make your changes (see options.txt for options).
 
 Import JSON appearance data to save:   
-`pat.exe import -i out.json -o 1.sav`
+`pat.exe import -i out.json -o 00000000000000000000000000000001.sav`
 
 ## Use cases
 - Simply to change your own appearance.
