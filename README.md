@@ -13,6 +13,9 @@ Open the JSON in your favourite text editor and make your changes (see options.t
 Import JSON appearance data to save:   
 `pat.exe import -i out.json -o 1.sav`
 
+## Thank you
+- trumank for their great uesave-rs. 
+
 ## Disclaimer
 - I will not be responsible for any possibility of save corruption.
 - Palworld brand and name is the registered trademark of its respective owner.
