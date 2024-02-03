@@ -15,6 +15,11 @@ Open the JSON in your favourite text editor and make your changes (see options.t
 Import JSON appearance data to save:   
 `pat.exe import -i out.json -o 1.sav`
 
+## Use cases
+- Simply to change your own appearance.
+- Migrate appearences between saves.
+- Some mods like the Play as Zoe one need the head and hair set to specific types to work properly.
+
 ## Thank you
 - trumank for their great uesave-rs. 
 
