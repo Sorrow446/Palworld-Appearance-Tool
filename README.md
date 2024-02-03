@@ -5,6 +5,8 @@ Tool for appearance manipulation for Palworld written in Go.
 - Download and put [uesave](https://github.com/trumank/uesave-rs/releases/latest) binary in PAT's folder.
 
 ## Usage
+Saves are stored here: `%LOCALAPPDATA%\Pal\Saved\SaveGames\<ID>`
+
 Export JSON appearance data:   
 `pat.exe export -i 1.sav -o out.json`
 
