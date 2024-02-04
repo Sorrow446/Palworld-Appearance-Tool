@@ -17,7 +17,7 @@ Import JSON appearance data to save:
 
 ## Use cases
 - Simply to change your own appearance.
-- Migrate appearences between saves.
+- Migrate appearances between saves.
 - Some mods like the Play as Zoe one need the head and hair set to specific types to work properly.
 
 ## Thank you
